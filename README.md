@@ -1,3 +1,4 @@
+# Etherum Balance Checker
 
 This C# application checks the balance of given Ethereum wallet addresses and identifies addresses above a certain threshold. If the balance of the address is over $1, it saves it in `high_balance.txt` file.
 
